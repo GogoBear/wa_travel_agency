@@ -69,3 +69,15 @@ struct ContentView: View {
             alertMessage = sleepTime.formatted(date: .omitted, time: .shortened)
         } catch {
             alertTitle = "Error"
+            alertMessage = "Sorry, there was an error claculating your bedtime"
+        }
+        
+        showingAlert = true
+    }
+}
+
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}
