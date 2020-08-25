@@ -21,3 +21,32 @@ struct ContentView: View {
         var components = DateComponents()
         components.hour = 7
         components.minute = 0
+        return Calendar.current.date(from: components) ?? Date.now
+    }
+    
+    var body: some View {
+        NavigationView {
+            Form {
+                Section("When do you want to wake up?") {
+                    DatePicker("Please enter a time", selection: $wakeUp, displayedComponents: .hourAndMinute)
+                        .labelsHidden()
+                }
+                
+                Section("Desired amount of sleep") {
+                    Stepper("\(sleepAmount.formatted()) hours", value: $sleepAmount, in: 4...12, step: 0.25)
+                }
+                
+                Section("Daily coffee intake") {
+                    Stepper(coffeeAmount == 1 ? "1 cup" : "\(coffeeAmount) cups", value: $coffeeAmount, in: 1...20)
+                }
+            }
+            .navigationTitle("BetterRest")
+            .toolbar {
+                Button("Calculate", action: calculateBedtime)
+            }
+            .alert(alertTitle, isPresented: $showingAlert) {
+                Button("OK") {}
+            } message: {
+                Text(alertMessage)
+            }
+        }
