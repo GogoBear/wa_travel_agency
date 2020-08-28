@@ -3,4 +3,5 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	ob
+	objectVersion = 56;
+	obje
