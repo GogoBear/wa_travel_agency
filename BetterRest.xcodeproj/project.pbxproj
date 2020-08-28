@@ -4,4 +4,6 @@
 	classes = {
 	};
 	objectVersion = 56;
-	obje
+	objects = {
+
+/* Beg
