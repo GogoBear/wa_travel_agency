@@ -8,4 +8,4 @@
 
 /* Begin PBXBuildFile section */
 		84F991F828F1E8A200EB283A /* BetterRestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F991F728F1E8A200EB283A /* BetterRestApp.swift */; };
-		84F991FA28F1E8A200EB2
+		84F991FA28F1E8A200EB283A /* ContentView.swift 
