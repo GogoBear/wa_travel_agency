@@ -10,4 +10,4 @@
 		84F991F828F1E8A200EB283A /* BetterRestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F991F728F1E8A200EB283A /* BetterRestApp.swift */; };
 		84F991FA28F1E8A200EB283A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F991F928F1E8A200EB283A /* ContentView.swift */; };
 		84F991FC28F1E8A300EB283A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84F991FB28F1E8A300EB283A /* Assets.xcassets */; };
-		84F991FF28F1E8A300EB283A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84F991FE28F1E8A300EB2
+		84F991FF28F1E8A300EB283A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84F991FE28F1E8A300EB283A /* Preview Asset
