@@ -15,4 +15,4 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		84F991F428F1E8A200EB283A /* BetterRest.app */ = {i
+		84F991F428F1E8A200EB283A /* BetterRest.app */ = {isa = PBXFileReference
