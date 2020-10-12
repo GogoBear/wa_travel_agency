@@ -15,4 +15,5 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		84F991F428F1E8A200EB283A /* BetterRest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetterRest.app; sourceTree = BUILT_P
+		84F991F428F1E8A200EB283A /* BetterRest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetterRest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+	
