@@ -18,4 +18,4 @@
 		84F991F428F1E8A200EB283A /* BetterRest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetterRest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84F991F728F1E8A200EB283A /* BetterRestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetterRestApp.swift; sourceTree = "<group>"; };
 		84F991F928F1E8A200EB283A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		84F991FB28F1E8A300EB283A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalo
+		84F991FB28F1E8A300EB283A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Asse
