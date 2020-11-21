@@ -24,4 +24,4 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		84F9
+		84F991F128F1E8A200EB283A /* 
