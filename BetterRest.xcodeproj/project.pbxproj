@@ -25,4 +25,5 @@
 
 /* Begin PBXFrameworksBuildPhase section */
 		84F991F128F1E8A200EB283A /* Frameworks */ = {
-			isa = P
+			isa = PBXFrameworksBuildPhase;
+		
