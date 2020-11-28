@@ -29,4 +29,5 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			runOnlyForDe
+			runOnlyForDeploymentPostprocessing = 0;
+	
