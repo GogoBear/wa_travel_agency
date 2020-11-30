@@ -31,4 +31,4 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-/* End PB
+/* End PBXFrameworksBuildPhase
