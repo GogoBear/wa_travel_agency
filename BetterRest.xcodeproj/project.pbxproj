@@ -40,4 +40,6 @@
 				84F991F628F1E8A200EB283A /* BetterRest */,
 				84F991F528F1E8A200EB283A /* Products */,
 			);
-			sourceTree = 
+			sourceTree = "<group>";
+		};
+		84F991
