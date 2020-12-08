@@ -43,4 +43,5 @@
 			sourceTree = "<group>";
 		};
 		84F991F528F1E8A200EB283A /* Products */ = {
-			isa = PBXGrou
+			isa = PBXGroup;
+			children = (
