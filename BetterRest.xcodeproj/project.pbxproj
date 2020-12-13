@@ -51,4 +51,5 @@
 			sourceTree = "<group>";
 		};
 		84F991F628F1E8A200EB283A /* BetterRest */ = {
-			is
+			isa = PBXGroup;
+			c
