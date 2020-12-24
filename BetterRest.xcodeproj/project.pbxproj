@@ -55,4 +55,4 @@
 			children = (
 				84F991F728F1E8A200EB283A /* BetterRestApp.swift */,
 				84F991F928F1E8A200EB283A /* ContentView.swift */,
-				84F9920728F229CE00EB283A /* Slee
+				84F9920728F229CE00EB283A /* SleepCalculator.mlmodel
