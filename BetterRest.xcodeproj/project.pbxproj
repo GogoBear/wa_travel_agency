@@ -59,4 +59,5 @@
 				84F991FB28F1E8A300EB283A /* Assets.xcassets */,
 				84F991FD28F1E8A300EB283A /* Preview Content */,
 			);
-			path = BetterRest
+			path = BetterRest;
+			sourceTree = 
