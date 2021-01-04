@@ -58,4 +58,5 @@
 				84F9920728F229CE00EB283A /* SleepCalculator.mlmodel */,
 				84F991FB28F1E8A300EB283A /* Assets.xcassets */,
 				84F991FD28F1E8A300EB283A /* Preview Content */,
-	
+			);
+			path = BetterRest
