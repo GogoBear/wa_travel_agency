@@ -67,4 +67,5 @@
 			children = (
 				84F991FE28F1E8A300EB283A /* Preview Assets.xcassets */,
 			);
-			path = "Preview C
+			path = "Preview Content";
+			sourceTre
