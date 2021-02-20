@@ -73,4 +73,4 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		84F991F328F1E8A200EB28
+		84F991F328F1E8A200EB283A /* BetterRest */ = {
