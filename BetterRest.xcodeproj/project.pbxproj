@@ -75,4 +75,4 @@
 /* Begin PBXNativeTarget section */
 		84F991F328F1E8A200EB283A /* BetterRest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 84F9920228F1E8A
+			buildConfigurationList = 84F9920228F1E8A300EB283A /* Build confi
