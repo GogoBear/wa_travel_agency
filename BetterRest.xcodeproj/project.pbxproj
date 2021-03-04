@@ -78,4 +78,4 @@
 			buildConfigurationList = 84F9920228F1E8A300EB283A /* Build configuration list for PBXNativeTarget "BetterRest" */;
 			buildPhases = (
 				84F991F028F1E8A200EB283A /* Sources */,
-				84
+				84F991F128F1E8A200EB283A /* Fra
