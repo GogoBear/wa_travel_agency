@@ -85,4 +85,5 @@
 			);
 			dependencies = (
 			);
-			name = 
+			name = BetterRest;
+			productName =
