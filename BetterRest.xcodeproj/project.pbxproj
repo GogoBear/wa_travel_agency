@@ -83,4 +83,6 @@
 			);
 			buildRules = (
 			);
-			dependencies = 
+			dependencies = (
+			);
+			name = 
