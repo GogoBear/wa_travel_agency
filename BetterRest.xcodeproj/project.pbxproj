@@ -87,4 +87,4 @@
 			);
 			name = BetterRest;
 			productName = BetterRest;
-			productReference
+			productReference = 84F991F428F1E8A200EB283
