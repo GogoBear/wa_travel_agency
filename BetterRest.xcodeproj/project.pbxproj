@@ -88,4 +88,4 @@
 			name = BetterRest;
 			productName = BetterRest;
 			productReference = 84F991F428F1E8A200EB283A /* BetterRest.app */;
-			productType = "co
+			productType = "com.apple.product-type.applic
