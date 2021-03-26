@@ -87,4 +87,5 @@
 			);
 			name = BetterRest;
 			productName = BetterRest;
-			productReference = 84F991F428F1E8A200EB283A /* BetterRest.app */
+			productReference = 84F991F428F1E8A200EB283A /* BetterRest.app */;
+			productType = "co
