@@ -90,4 +90,6 @@
 			productReference = 84F991F428F1E8A200EB283A /* BetterRest.app */;
 			productType = "com.apple.product-type.application";
 		};
-/* End PBXNativeTarget section
+/* End PBXNativeTarget section */
+
+/* Begin PBXPr
