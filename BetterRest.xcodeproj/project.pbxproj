@@ -93,4 +93,5 @@
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		84F991EC28F1E8A200EB283A /* Proj
+		84F991EC28F1E8A200EB283A /* Project object */ = {
+			isa = 
