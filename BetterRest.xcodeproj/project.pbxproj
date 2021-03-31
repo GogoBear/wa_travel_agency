@@ -98,4 +98,4 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1400;
-				La
+				LastUpgradeCheck
