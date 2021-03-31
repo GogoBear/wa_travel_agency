@@ -97,4 +97,5 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpda
+				LastSwiftUpdateCheck = 1400;
+				La
