@@ -96,4 +96,5 @@
 		84F991EC28F1E8A200EB283A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				BuildIndependentTargetsInParallel = 
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpda
