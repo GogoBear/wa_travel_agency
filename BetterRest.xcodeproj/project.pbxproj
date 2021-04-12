@@ -105,4 +105,4 @@
 					};
 				};
 			};
-			buil
+			buildConfigurationList = 84F991EF28F1
