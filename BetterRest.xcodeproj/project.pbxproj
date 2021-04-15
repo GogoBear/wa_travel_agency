@@ -105,4 +105,4 @@
 					};
 				};
 			};
-			buildConfigurationList = 84F991EF28F1
+			buildConfigurationList = 84F991EF28F1E8A200EB283A /* Build c
