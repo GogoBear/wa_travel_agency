@@ -106,4 +106,5 @@
 				};
 			};
 			buildConfigurationList = 84F991EF28F1E8A200EB283A /* Build configuration list for PBXProject "BetterRest" */;
-			compatibilityVers
+			compatibilityVersion = "Xcode 14.0";
+			d
