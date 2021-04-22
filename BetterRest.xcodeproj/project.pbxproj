@@ -114,4 +114,4 @@
 				Base,
 			);
 			mainGroup = 84F991EB28F1E8A200EB283A;
-			productRefGroup = 84F991F528F1
+			productRefGroup = 84F991F528F1E8A200EB283A /* P
