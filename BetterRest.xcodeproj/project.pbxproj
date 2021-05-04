@@ -117,4 +117,5 @@
 			productRefGroup = 84F991F528F1E8A200EB283A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
-			target
+			targets = (
+				84F991F32
