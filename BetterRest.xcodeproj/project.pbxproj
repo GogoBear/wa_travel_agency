@@ -123,4 +123,5 @@
 		};
 /* End PBXProject section */
 
-/* Begin PBXResourc
+/* Begin PBXResourcesBuildPhase section */
+		84F9
