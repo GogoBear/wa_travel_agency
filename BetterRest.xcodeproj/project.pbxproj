@@ -127,4 +127,5 @@
 		84F991F228F1E8A200EB283A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
-			files 
+			files = (
+				84F991FF28F1E8A
