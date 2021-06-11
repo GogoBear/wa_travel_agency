@@ -133,4 +133,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-/* End PBXResourcesBuildPhase sec
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBX
