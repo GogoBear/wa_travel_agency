@@ -135,4 +135,5 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
-/* Begin PBXSourcesBuildPhas
+/* Begin PBXSourcesBuildPhase section */
+		84F991F02
