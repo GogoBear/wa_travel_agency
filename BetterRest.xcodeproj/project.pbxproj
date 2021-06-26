@@ -136,4 +136,5 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		84F991F028F1E8A200EB283A /* Source
+		84F991F028F1E8A200EB283A /* Sources */ = {
+			isa = PBXS
