@@ -140,4 +140,5 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84F9920828F229CE00EB283A /* SleepCalculator.mlmodel in
+				84F9920828F229CE00EB283A /* SleepCalculator.mlmodel in Sources */,
+				84
