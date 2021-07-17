@@ -144,4 +144,6 @@
 				84F991FA28F1E8A200EB283A /* ContentView.swift in Sources */,
 				84F991F828F1E8A200EB283A /* BetterRestApp.swift in Sources */,
 			);
-			runOnlyForDeploymentPostprocessi
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSour
