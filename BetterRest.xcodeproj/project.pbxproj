@@ -146,4 +146,4 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-/* End PBXSour
+/* End PBXSourcesBuildPhase sect
