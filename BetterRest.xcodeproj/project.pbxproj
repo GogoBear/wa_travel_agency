@@ -146,4 +146,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-/* End PBXSourcesBuildPhase sect
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildCon
