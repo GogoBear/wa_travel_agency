@@ -148,4 +148,4 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin XCBuildCon
+/* Begin XCBuildConfiguration section */
