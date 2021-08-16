@@ -152,4 +152,5 @@
 		84F9920028F1E8A300EB283A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS =
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_
