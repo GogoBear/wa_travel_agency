@@ -153,4 +153,4 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_
+				CLANG_ANALYZER_NONNULL = YES
