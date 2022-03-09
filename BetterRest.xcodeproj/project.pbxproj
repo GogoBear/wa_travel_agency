@@ -193,4 +193,4 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				GCC_WARN
+				GCC_WARN_64_TO_32_BIT_CONVERS
