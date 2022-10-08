@@ -258,4 +258,4 @@
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OP
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
