@@ -259,4 +259,6 @@
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				VALIDATE_PRODU
+				VALIDATE_PRODUCT = YES;
+			};
+			
