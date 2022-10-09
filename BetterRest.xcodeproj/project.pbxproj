@@ -265,4 +265,5 @@
 		};
 		84F9920328F1E8A300EB283A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			buildSettings =
+			buildSettings = {
+				ASSETCATALOG_CO
