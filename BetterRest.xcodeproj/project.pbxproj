@@ -263,4 +263,5 @@
 			};
 			name = Release;
 		};
-		84F9920328F1E8A300EB283A /* Debug */
+		84F9920328F1E8A300EB283A /* Debug */ = {
+			isa = XCBuildConfigu
