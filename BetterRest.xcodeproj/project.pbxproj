@@ -267,4 +267,4 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				A
+				ASSETCATALOG_COMPILER
