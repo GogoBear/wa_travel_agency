@@ -266,4 +266,5 @@
 		84F9920328F1E8A300EB283A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_N
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				A
