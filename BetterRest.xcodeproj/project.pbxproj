@@ -274,4 +274,4 @@
 				DEVELOPMENT_TEAM = WV8J8M4LWD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationScene
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
