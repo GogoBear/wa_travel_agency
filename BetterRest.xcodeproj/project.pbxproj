@@ -283,4 +283,5 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKET
+				MARKETING_VERSION = 1.0;
+				
