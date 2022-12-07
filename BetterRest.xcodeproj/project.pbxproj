@@ -291,3 +291,5 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
+		};
+		84F9920428F1E8A300EB2
