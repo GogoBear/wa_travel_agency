@@ -294,4 +294,5 @@
 		};
 		84F9920428F1E8A300EB283A /* Release */ = {
 			isa = XCBuildConfiguration;
-			buildSettings = 
+			buildSettings = {
+				ASSETCATALOG_CO
