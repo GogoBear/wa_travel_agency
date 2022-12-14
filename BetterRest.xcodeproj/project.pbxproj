@@ -295,4 +295,5 @@
 		84F9920428F1E8A300EB283A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSE
