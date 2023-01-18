@@ -312,4 +312,4 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				M
+				MARKETING_VERSION = 1.0;
