@@ -321,4 +321,6 @@
 			};
 			name = Release;
 		};
-/* End XCBuildConfiguration sect
+/* End XCBuildConfiguration section */
+
+/* Begin XC
