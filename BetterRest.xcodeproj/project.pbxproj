@@ -323,4 +323,4 @@
 		};
 /* End XCBuildConfiguration section */
 
-/* Begin XC
+/* Begin XCConfigurationList sect
