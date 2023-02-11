@@ -323,4 +323,5 @@
 		};
 /* End XCBuildConfiguration section */
 
-/* Begin XCConfigurationList sect
+/* Begin XCConfigurationList section */
+		84F991EF28F1E8A
