@@ -324,4 +324,5 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		84F991EF28F1E8A200EB283A /* Build configuration list for PBXProject "BetterRest"
+		84F991EF28F1E8A200EB283A /* Build configuration list for PBXProject "BetterRest" */ = {
+			isa = XCC
