@@ -327,4 +327,5 @@
 		84F991EF28F1E8A200EB283A /* Build configuration list for PBXProject "BetterRest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				84F9920028F1E8A300E
+				84F9920028F1E8A300EB283A /* Debug */,
+				84
