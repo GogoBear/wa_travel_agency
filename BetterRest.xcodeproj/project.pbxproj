@@ -328,4 +328,6 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				84F9920028F1E8A300EB283A /* Debug */,
-				84F9920128F1E8A300EB283A /* Release *
+				84F9920128F1E8A300EB283A /* Release */,
+			);
+			defaultConfi
