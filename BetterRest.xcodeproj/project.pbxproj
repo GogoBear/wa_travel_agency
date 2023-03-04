@@ -331,4 +331,6 @@
 				84F9920128F1E8A300EB283A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Rele
+			defaultConfigurationName = Release;
+		};
+		84F992022
