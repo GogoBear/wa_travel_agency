@@ -333,4 +333,4 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		84F9920228F1E8A300EB283A /* Build configuration list for PBXNativeTarg
+		84F9920228F1E8A300EB283A /* Build configuration list for PBXNativeTarget "BetterRest" *
