@@ -335,4 +335,5 @@
 		};
 		84F9920228F1E8A300EB283A /* Build configuration list for PBXNativeTarget "BetterRest" */ = {
 			isa = XCConfigurationList;
-			buildCo
+			buildConfigurations = (
+			
