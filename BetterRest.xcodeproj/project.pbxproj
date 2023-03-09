@@ -338,3 +338,5 @@
 			buildConfigurations = (
 				84F9920328F1E8A300EB283A /* Debug */,
 				84F9920428F1E8A300EB283A /* Release */,
+			);
+			defaultCo
