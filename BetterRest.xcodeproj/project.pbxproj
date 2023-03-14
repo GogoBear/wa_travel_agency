@@ -342,4 +342,4 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-/* End XCConfiguratio
+/* End XCConfigurationList section *
