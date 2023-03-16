@@ -344,4 +344,4 @@
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject 
+	rootObject = 84F991EC28F1E8A200EB283A 
